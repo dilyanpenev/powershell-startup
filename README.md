@@ -22,3 +22,5 @@ function prompt {">> "}
 ```
 4. Save and close
 5. Start a new PowerShell
+
+*Tip:* To remove the standard Windows message when starting PowerShell, run ```powershell.exe``` with the ```-nologo``` argument.
